@@ -1,93 +1,112 @@
-# Hi, I'm Soham 👋
+# 👋 Hi, I'm Soham Panwalkar
 
-I'm a Computer Science Engineering student at **Dwarkadas J. Sanghvi College of Engineering (2024–2028)**, based in Mumbai.
-
-I like working on backend-heavy projects, real-time systems, and full-stack apps where I can own things end to end.  
-Most of what I learn comes from building projects and breaking them until they work.
+🎓 Computer Science Engineering student at **Dwarkadas J. Sanghvi College of Engineering (2024–2028)**  
+📍 Mumbai, India  
+💡 Interested in **Full Stack Development, Backend Systems, and Applied AI**  
+🧠 Strong foundations in **DSA, System Design basics, and real-time architectures**
 
 ---
 
-## What I work with
+## 🚀 About Me
 
-**Languages**
-- Python, Java, C  
-- JavaScript, HTML, CSS  
-- SQL
+I'm a motivated computer science undergraduate who enjoys building **end-to-end products**, not just demos.  
+I like working close to the backend — designing APIs, handling real-time communication, and integrating AI where it makes sense.
 
-**Frameworks / Tools**
-- Django, Flask, Express  
-- React  
-- Prisma, Material UI
+I’ve worked on projects involving:
+- REST APIs & authentication
+- Real-time WebSocket systems
+- OCR + AI pipelines
+- Clean, modular backend architectures
 
-**Databases**
-- PostgreSQL  
-- SQLite
+I also actively solve **DSA problems** and focus on writing readable, maintainable code.
 
-**AI / ML (basics)**
-- Pandas, NumPy  
-- scikit-learn  
-- LangChain
+---
 
-**CS Fundamentals**
-- Data Structures & Algorithms  
-- OOP  
-- DBMS  
-- Operating Systems  
+## 🛠️ Technical Skills
+
+### Languages
+- **Python**, **Java**, **C**
+- **JavaScript**, **HTML**, **CSS**
+- **SQL**
+
+### Frameworks & Libraries
+- **Django**, **Flask**, **Express**
+- **React**
+- **Prisma**
+- **Material UI (MUI)**
+
+### Databases
+- **PostgreSQL**
+- **SQLite**
+
+### AI / ML (Foundational)
+- Pandas, NumPy
+- scikit-learn (basics)
+- LangChain (basics)
+
+### CS Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
 - Computer Networks
 
-**Dev Tools**
-- Git, GitHub, VS Code
+### Developer Tools
+- Git & GitHub
+- VS Code
 
 ---
 
-## Projects
+## 📌 Featured Projects
 
-### AI-Enabled Restaurant Management System
-**Django REST Framework, JWT, React, LangChain**
+### 🍽️ AI-Enabled Restaurant Management System
+**Tech Stack:** Django REST Framework, JWT, React, LangChain, Material UI  
+🔗 [View Repository](https://github.com/notsamaltman/RestaurantSystem_SohamPanwalkar)
 
-- Built a full-stack system for managing restaurants, menus, tables, and orders
-- Implemented JWT-based authentication for admins and restaurants
-- Created an AI pipeline where menu images are uploaded, processed with OCR, cleaned, and converted into product data
-- Generated QR codes for tables so customers can place orders directly
-- Built a React dashboard to manage live and past orders
-
-🔗 https://github.com/notsamaltman/RestaurantSystem_SohamPanwalkar
-
----
-
-### Fake News Detection Platform
-**Flask, React, Web Scraping, Gemini API**
-
-- Built a platform to analyze the credibility of news articles using real web data
-- Used a search API and web scraping to collect content from multiple sources
-- Processed the data using Gemini API for credibility analysis
-- Focused on keeping the backend modular and easy to reason about
-
-🔗 https://github.com/notsamaltman/AIDS-Hackathon
+- Built a **full-stack restaurant management platform** with JWT-based authentication
+- Designed an **AI-powered menu onboarding pipeline** using OCR and AI-generated descriptions
+- Implemented REST APIs for restaurants, menus, tables, and order lifecycle management
+- Generated **QR codes per table** for customer ordering
+- Developed a React admin dashboard to manage live and historical orders
 
 ---
 
-### Real-Time Multiplayer Tic Tac Toe
-**Flask-SocketIO, WebSockets**
+### 📰 Fake News Detection Platform
+**Tech Stack:** Flask, React, Web Scraping, Search API, Gemini API  
+🔗 [View Repository](https://github.com/notsamaltman/AIDS-Hackathon)
 
-- Built a real-time two-player game with live state synchronization
-- Implemented matchmaking, game sessions, and server-side game logic
-- Used WebSockets to handle concurrent users and low-latency updates
-
-🔗 https://github.com/notsamaltman/multiplayerTicTacToe
+- Built an end-to-end system to assess **news credibility using real-world data**
+- Integrated search APIs and scraped content from multiple sources
+- Used Gemini API for **credibility analysis and classification**
+- Focused on **modular backend design** and clean separation of concerns
 
 ---
 
-## Problem Solving
+### 🎮 Real-Time Multiplayer Tic Tac Toe
+**Tech Stack:** Flask-SocketIO, WebSockets, HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/notsamaltman/multiplayerTicTacToe)
+
+- Implemented **real-time multiplayer gameplay** with live state synchronization
+- Used WebSockets for low-latency communication
+- Handled matchmaking, game sessions, and server-side logic
+- Gained hands-on experience with **asynchronous systems**
+
+---
+
+## 🧩 Problem Solving
 
 - Solved **170+ LeetCode problems**
-- 90 Medium, 10 Hard
-- Covered arrays, trees, graphs, recursion, and dynamic programming
-- Ranked in the **top 10% globally**
+  - 90 Medium, 10 Hard
+  - Topics: Arrays, Trees, Graphs, Recursion, Dynamic Programming
+- Ranked in the **top 10% globally** on LeetCode
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-- Email: **panwalkarsoham@gmail.com**
-- GitHub: https://github.com/notsamaltman
+- 📧 Email: **panwalkarsoham@gmail.com**
+- 🧑‍💻 GitHub: [github.com/notsamaltman](https://github.com/notsamaltman)
+
+---
+
+⭐ *Always open to learning, building, and collaborating on meaningful projects.*
