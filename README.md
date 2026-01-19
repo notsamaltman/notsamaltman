@@ -1,112 +1,89 @@
-# 👋 Hi, I'm Soham Panwalkar
+# Hi, I'm Soham Panwalkar 👋
 
-🎓 Computer Science Engineering student at **Dwarkadas J. Sanghvi College of Engineering (2024–2028)**  
+🎓 B.Tech Computer Science Engineering @ **Dwarkadas J. Sanghvi College of Engineering**  
 📍 Mumbai, India  
-💡 Interested in **Full Stack Development, Backend Systems, and Applied AI**  
-🧠 Strong foundations in **DSA, System Design basics, and real-time architectures**
+💻 Interested in **Backend Development, Full Stack Systems & Applied AI**  
+⚙️ I enjoy building real-world projects, especially APIs, real-time apps, and systems that work end to end
 
 ---
 
-## 🚀 About Me
-
-I'm a motivated computer science undergraduate who enjoys building **end-to-end products**, not just demos.  
-I like working close to the backend — designing APIs, handling real-time communication, and integrating AI where it makes sense.
-
-I’ve worked on projects involving:
-- REST APIs & authentication
-- Real-time WebSocket systems
-- OCR + AI pipelines
-- Clean, modular backend architectures
-
-I also actively solve **DSA problems** and focus on writing readable, maintainable code.
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:panwalkarsoham@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/notsamaltman)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
-- **Python**, **Java**, **C**
-- **JavaScript**, **HTML**, **CSS**
-- **SQL**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-- **Django**, **Flask**, **Express**
-- **React**
-- **Prisma**
-- **Material UI (MUI)**
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
 
-### Databases
-- **PostgreSQL**
-- **SQLite**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
-### AI / ML (Foundational)
-- Pandas, NumPy
-- scikit-learn (basics)
-- LangChain (basics)
-
-### CS Fundamentals
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
-### Developer Tools
-- Git & GitHub
-- VS Code
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=notsamaltman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notsamaltman&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsamaltman&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Projects
 
 ### 🍽️ AI-Enabled Restaurant Management System
-**Tech Stack:** Django REST Framework, JWT, React, LangChain, Material UI  
-🔗 [View Repository](https://github.com/notsamaltman/RestaurantSystem_SohamPanwalkar)
+- Full-stack system using Django REST Framework and React
+- JWT authentication for admins and restaurants
+- AI-powered menu onboarding using OCR and text processing
+- QR-based table ordering and live order tracking
 
-- Built a **full-stack restaurant management platform** with JWT-based authentication
-- Designed an **AI-powered menu onboarding pipeline** using OCR and AI-generated descriptions
-- Implemented REST APIs for restaurants, menus, tables, and order lifecycle management
-- Generated **QR codes per table** for customer ordering
-- Developed a React admin dashboard to manage live and historical orders
+🔗 https://github.com/notsamaltman/RestaurantSystem_SohamPanwalkar
 
 ---
 
 ### 📰 Fake News Detection Platform
-**Tech Stack:** Flask, React, Web Scraping, Search API, Gemini API  
-🔗 [View Repository](https://github.com/notsamaltman/AIDS-Hackathon)
+- News credibility analysis using real-world web data
+- Search APIs + web scraping for content aggregation
+- Gemini API for classification
 
-- Built an end-to-end system to assess **news credibility using real-world data**
-- Integrated search APIs and scraped content from multiple sources
-- Used Gemini API for **credibility analysis and classification**
-- Focused on **modular backend design** and clean separation of concerns
+🔗 https://github.com/notsamaltman/AIDS-Hackathon
 
 ---
 
 ### 🎮 Real-Time Multiplayer Tic Tac Toe
-**Tech Stack:** Flask-SocketIO, WebSockets, HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/notsamaltman/multiplayerTicTacToe)
+- Two-player real-time game using Flask-SocketIO
+- Matchmaking and live updates using WebSockets
 
-- Implemented **real-time multiplayer gameplay** with live state synchronization
-- Used WebSockets for low-latency communication
-- Handled matchmaking, game sessions, and server-side logic
-- Gained hands-on experience with **asynchronous systems**
+🔗 https://github.com/notsamaltman/multiplayerTicTacToe
 
 ---
 
-## 🧩 Problem Solving
-
+## 🧠 Problem Solving
 - Solved **170+ LeetCode problems**
-  - 90 Medium, 10 Hard
-  - Topics: Arrays, Trees, Graphs, Recursion, Dynamic Programming
-- Ranked in the **top 10% globally** on LeetCode
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **panwalkarsoham@gmail.com**
-- 🧑‍💻 GitHub: [github.com/notsamaltman](https://github.com/notsamaltman)
-
----
-
-⭐ *Always open to learning, building, and collaborating on meaningful projects.*
+- 90 Medium, 10 Hard
+- Strong focus on DSA fundamentals
+- Ranked in the **top 10% globally**
