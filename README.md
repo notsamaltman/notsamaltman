@@ -76,7 +76,7 @@
 ---
 
 ## 🧠 Problem Solving
-- Solved **170+ LeetCode problems**
-- 90 Medium, 10 Hard
+- Solved **200+ LeetCode problems**
+- 110+ Medium, 10 Hard
 - Strong focus on DSA fundamentals
 - Ranked in the **top 10% globally**
