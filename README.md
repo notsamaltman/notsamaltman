@@ -1,9 +1,9 @@
 # Hi, I'm Soham Panwalkar 👋
 
-🎓 B.Tech Computer Science Engineering @ **Dwarkadas J. Sanghvi College of Engineering**  
+B.Tech Computer Science Engineering @ **Dwarkadas J. Sanghvi College of Engineering**  
 📍 Mumbai, India  
-💻 Interested in **Backend Development, Full Stack Systems & Applied AI**  
-⚙️ I enjoy building real-world projects, especially APIs, real-time apps, and systems that work end to end
+Interested in **Backend Development, Full Stack Systems & Applied AI**  
+I enjoy building real-world projects, especially APIs, real-time apps, and systems that work end to end
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=notsamaltman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -46,9 +46,9 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🍽️ AI-Enabled Restaurant Management System
+###  AI-Enabled Restaurant Management System
 - Full-stack system using Django REST Framework and React
 - JWT authentication for admins and restaurants
 - AI-powered menu onboarding using OCR and text processing
@@ -58,7 +58,7 @@
 
 ---
 
-### 📰 Fake News Detection Platform
+###  Fake News Detection Platform
 - News credibility analysis using real-world web data
 - Search APIs + web scraping for content aggregation
 - Gemini API for classification
@@ -67,7 +67,7 @@
 
 ---
 
-### 🎮 Real-Time Multiplayer Tic Tac Toe
+###  Real-Time Multiplayer Tic Tac Toe
 - Two-player real-time game using Flask-SocketIO
 - Matchmaking and live updates using WebSockets
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 🧠 Problem Solving
+##  Problem Solving
 - Solved **200+ LeetCode problems**
 - 110+ Medium, 10 Hard
 - Strong focus on DSA fundamentals
