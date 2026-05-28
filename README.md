@@ -1,124 +1,251 @@
-# Soham Panwalkar
+<div align="center">
 
-B.Tech Computer Science Engineering @ **Dwarkadas J. Sanghvi College of Engineering**
-Mumbai, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=200&section=header&text=SOHAM%20PANWALKAR&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Systems%20Thinker%20%7C%20Builder&descAlignY=60&descSize=16&descColor=a0a0b0" width="100%"/>
 
-Backend-focused developer interested in distributed systems, real-time infrastructure, workflow orchestration, and automation platforms.
-Currently building scalable backend systems, autonomous workflow agents, and high-concurrency applications.
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=e94560&center=true&vCenter=true&multiline=false&width=700&lines=Distributed+systems.+Real-time+infra.+Autonomous+agents.;Backend+that+doesn't+fall+over.;Currently+building+things+that+move+fast.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:panwalkarsoham@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/notsamaltman)
+![Profile Views](https://komarev.com/ghpvc/?username=notsamaltman&color=e94560&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%206%25-e94560?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0d0d)](https://leetcode.com)
+&nbsp;&nbsp;
+[![250+ Problems](https://img.shields.io/badge/250%2B-Problems%20Solved-a0a0b0?style=flat-square&labelColor=0d0d0d)](https://leetcode.com)
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Identity
+
+```
+Name   : Soham Panwalkar
+School : DJSCE, Mumbai — B.Tech CSE
+Year   : Second year
+Role   : Backend / Infra / Systems
+
+Focus areas:
+  - Distributed systems
+  - Real-time infrastructure
+  - Workflow orchestration
+  - Automation platforms
+  - Autonomous agents
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Currently
+
+```
+[ACTIVE]  DeepCytes Cyber Labs UK
+          Full Stack Developer Intern
+          Feb 2026 – present
+
+[BUILDS]  High-concurrency backends
+          Autonomous lead-gen systems
+          Real-time collab tooling
+
+[GRINDING] LeetCode top 6% globally
+           250+ problems solved
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+**Languages**
 
-### Backend & Infrastructure
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=e94560)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=e94560)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=e94560)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=e94560)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=e94560)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat\&logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat\&logo=redis\&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-EA4AAA?style=flat)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socketdotio\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+**Backend & Infrastructure**
 
-### Databases & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00d4aa)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=a0a0b0)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=a0a0b0)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=e94560)
+![BullMQ](https://img.shields.io/badge/BullMQ-0d0d0d?style=for-the-badge&logoColor=e94560)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d0d0d?style=for-the-badge&logo=socketdotio&logoColor=a0a0b0)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ed)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat\&logo=amazonaws\&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat\&logo=amazonaws\&logoColor=white)
+**Databases & Cloud**
 
-### Automation & Orchestration
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat\&logo=playwright\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+**Orchestration & Automation**
 
----
+![LangGraph](https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logoColor=e94560)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logoColor=e94560)
+![Playwright](https://img.shields.io/badge/Playwright-0d0d0d?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=for-the-badge&logoColor=a0a0b0)
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=notsamaltman&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notsamaltman&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsamaltman&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## Featured Projects
+## GitHub
 
-### Pulsar — Autonomous Lead Generation Platform
+<div align="center">
 
-Distributed lead-generation platform built using asynchronous worker orchestration and browser automation.
+<img src="https://github-readme-stats.vercel.app/api?username=notsamaltman&show_icons=true&theme=transparent&hide_border=true&title_color=e94560&icon_color=e94560&text_color=a0a0b0&bg_color=0d0d0d&ring_color=e94560&include_all_commits=true&count_private=true" height="180"/>
 
-* Built ICP-driven lead acquisition agents using Playwright and LangGraph
-* Implemented queue-based workflow execution using BullMQ and Redis
-* Added real-time task streaming using Server-Sent Events (SSE)
-* Designed hierarchical multi-agent orchestration pipelines
-* Generated 100+ targeted leads in ~20 minutes during pilot testing
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notsamaltman&theme=transparent&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a0a0b0&dates=a0a0b0&currStreakNum=ffffff&sideNums=ffffff&background=0d0d0d&stroke=1a1a2e" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=notsamaltman&theme=redical&hide_border=true&bg_color=0d0d0d&color=a0a0b0&line=e94560&point=ffffff&area=true&area_color=e94560" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsamaltman&layout=compact&theme=transparent&hide_border=true&title_color=e94560&text_color=a0a0b0&bg_color=0d0d0d" height="150"/>
+
+</div>
 
 ---
 
-### RepoGenie — Repository Understanding System
+## Projects
 
-System for automated repository analysis and workflow extraction.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-* Generates structured architectural insights from large repositories
-* Uses semantic clustering to group related workflows and logic
-* Built using FastAPI, LangGraph, Next.js, and Pinecone
+### Pulsar
 
----
+**Autonomous Lead Generation Platform**
 
-### Real-Time Collaborative Coding Platform
+Distributed lead-gen using async worker orchestration and browser automation.
 
-Low-latency collaborative editor with synchronized multi-user editing.
+```
+Stack:
+  Playwright + LangGraph   → ICP agents
+  BullMQ + Redis           → queue execution
+  SSE                      → real-time streaming
+  Multi-agent pipelines    → hierarchical orchestration
 
-* Monaco Editor integration with WebSocket-based synchronization
-* Real-time collaborative editing workflows
-* Version history and rollback support for recovery
+Result: 100+ targeted leads in ~20 minutes
+```
+
+</td>
+<td width="50%" valign="top">
+
+### RepoGenie
+
+**Repository Understanding System**
+
+Automated repo analysis and workflow extraction at scale.
+
+```
+Stack:
+  FastAPI + LangGraph      → analysis engine
+  Next.js                  → frontend
+  Pinecone                 → semantic clustering
+  
+Output: structured architectural insights
+        from arbitrarily large codebases
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Real-Time Collaborative Editor
+
+Low-latency multi-user code editing.
+
+```
+Stack:
+  Monaco Editor  → code surface
+  WebSockets     → sync layer
+  
+Features:
+  - Real-time multi-cursor editing
+  - Version history + rollback
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ResolveX
+
+Gen-AI banking complaint intelligence platform — built at a hackathon.
+
+```
+Stack:
+  Next.js + Kafka + Node.js
+  Python + OpenAI/Grok
+  HuggingFace + Scikit-learn
+  Redis + PostgreSQL + pgvectors
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-### Full Stack Developer Intern — DeepCytes Cyber Labs UK
+```
+TIMELINE ─────────────────────────────────────────────────────────────
 
-**Feb 2026 – Present**
+Feb 2026 → present
+  DeepCytes Cyber Labs UK — Full Stack Developer Intern
+  
+  · Reduced API response times ~15% via Redis caching + query optimization
+  · Built secure backend routes for cybersecurity agents consuming CVE data
+  · Authenticated API workflows and backend infrastructure integrations
 
-* Reduced API response times by ~15% using Redis caching and optimized database queries
-* Built secure backend routes for cybersecurity agents consuming CVE vulnerability data
-* Worked on authenticated API workflows and backend infrastructure integrations
+Jan 2026 → Apr 2026
+  Shresht Sugmaya LLP — Full Stack Developer Intern
 
-### Full Stack Developer Intern — Shresht Sugmaya LLP
+  · Built and deployed 8+ responsive client platforms (Next.js + Supabase)
+  · Developed registration systems and analytics dashboards
 
-**Jan 2026 – Apr 2026**
-
-* Built and deployed 8+ responsive client platforms using Next.js and Supabase
-* Developed registration systems and analytics dashboards for internal management workflows
+─────────────────────────────────────────────────────────────────────
+```
 
 ---
 
-## Problem Solving
+<div align="center">
 
-* Solved 250+ LeetCode problems
-* Strong focus on DSA, backend systems, and scalable architecture
-* Ranked in the top 6% globally on LeetCode
+[![Email](https://img.shields.io/badge/panwalkarsoham%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:panwalkarsoham@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/notsamaltman-0d0d0d?style=for-the-badge&logo=github&logoColor=a0a0b0)](https://github.com/notsamaltman)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer&reversal=true" width="100%"/>
+
+</div>
