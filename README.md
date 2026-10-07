@@ -308,7 +308,7 @@ Most of my recent practice has been around trees, graphs, dynamic programming, D
 
 <p align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="900"/>
+![](./profile-3d-contrib/profile-night-green.svg)
 
 </p>
 
