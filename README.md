@@ -1,424 +1,348 @@
-<div align="center">
+<h1> Hey, I'm Soham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:111827,75:172554,100:0f3460&height=210&section=header&text=SOHAM%20PANWALKAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BACKEND%20%7C%20DISTRIBUTED%20SYSTEMS%20%7C%20AI%20AGENTS&descAlignY=62&descSize=15&descColor=3ff2e9" width="100%"/>
+<a href="https://www.linkedin.com/in/soham-panwalkar-ab672b351/">
+  <img align="left" alt="Soham | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=18\&duration=2800\&pause=1200\&color=3FF2E9\&center=true\&vCenter=true\&width=800\&lines=Backend+%2F+Distributed+Systems+%2F+AI+Agents;Building+Pulsar+%E2%80%94+autonomous+browser+automation;500%2B+LeetCode+problems+and+counting;Interested+in+systems+that+actually+ship.)](https://git.io/typing-svg)
+<a href="mailto:panwalkarsoham@gmail.com">
+  <img align="left" alt="Soham | Email" width="30" src="https://www.svgrepo.com/show/349378/gmail.svg" />
+</a>
+
+<a href="https://github.com/notsamaltman">
+  <img align="left" alt="Soham | GitHub" width="30" src="https://www.svgrepo.com/show/512317/github-142.svg" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=notsamaltman\&color=0e75b6\&style=flat-square\&label=PROFILE+VIEWS)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-notsamaltman-0d0d0d?style=for-the-badge\&logo=github\&logoColor=3ff2e9)](https://github.com/notsamaltman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soham%20Panwalkar-0d0d0d?style=for-the-badge\&logo=linkedin\&logoColor=3ff2e9)](https://www.linkedin.com/in/soham-panwalkar-ab672b351/)
-[![Email](https://img.shields.io/badge/Email-panwalkarsoham%40gmail.com-0d0d0d?style=for-the-badge\&logo=gmail\&logoColor=e94560)](mailto:panwalkarsoham@gmail.com)
+<img align="right" width="220px" height="220px" alt="coding" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
-</div>
+Hi, I'm **Soham Panwalkar**, a Computer Engineering student at **Dwarkadas J. Sanghvi College of Engineering, Mumbai**.
 
----
+I'm mainly interested in **backend engineering, distributed systems, AI agents and automation**. I like building things where there is more going on than just a frontend and a REST API — queues, workers, databases, browser automation, model inference and all the annoying edge cases that come with putting those things together.
 
-## About Me
+I'm currently building **Pulsar**, an autonomous lead-generation platform using browser automation, multi-agent workflows and distributed job processing.
+
+I'm also working through a lot of DSA and competitive programming. I've solved **500+ LeetCode problems** so far, with most of my recent focus being on trees, graphs, dynamic programming and problem-solving patterns.
+
+<br>
+
+<ul>
+<li> Currently pursuing B.Tech in Computer Engineering at DJSCE </li>
+<li> Building autonomous agents and backend systems </li>
+<li> 500+ LeetCode problems solved </li>
+<li> Interested in distributed systems, backend engineering and AI infrastructure </li>
+<li> Currently working on Pulsar </li>
+<li> Open to interesting projects, internships and collaborations </li>
+</ul>
+
+<br>
+
+<h2>Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,js,ts,sql,fastapi,nodejs,express,nextjs,flask,postgres,redis,supabase,docker,aws,cloudflare,git,github,githubactions,linux,postman,vscode&perline=12" />
+  </a>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+<img src="https://img.shields.io/badge/BullMQ-111111?style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=ffffff" />
+
+</p>
+
+<hr>
+
+<h2>What I Work On</h2>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-```text
-Name     : Soham Panwalkar
-College  : DJSCE, Mumbai
-Degree   : B.Tech Computer Engineering
-Focus    : Backend / Systems / AI
+<h3>Backend</h3>
 
-Currently:
-  - Building Pulsar
-  - Grinding DSA
-  - Learning system design
-  - Building agent infrastructure
-```
+Building APIs and services with:
+
+<ul>
+<li>FastAPI</li>
+<li>Node.js / Express</li>
+<li>Next.js</li>
+<li>PostgreSQL</li>
+<li>Redis</li>
+<li>Supabase</li>
+</ul>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-I'm a Computer Engineering student interested in backend engineering, distributed systems and autonomous agents.
+<h3>AI & Agents</h3>
 
-I enjoy building systems where the interesting problems are not just writing an API, but handling queues, workers, retries, state, failures, browser automation and real-time execution.
+Interested in:
 
-Currently spending most of my time building **Pulsar** and improving my DSA / backend fundamentals.
+<ul>
+<li>LLM applications</li>
+<li>Multi-agent systems</li>
+<li>LangGraph</li>
+<li>Browser agents</li>
+<li>Tool calling</li>
+<li>RAG</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Systems</h3>
+
+Currently learning and working with:
+
+<ul>
+<li>Distributed workers</li>
+<li>Message queues</li>
+<li>Async processing</li>
+<li>System design</li>
+<li>Cloud infrastructure</li>
+<li>Real-time systems</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
+<hr>
 
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,nextjs" />
-
-<br><br>
-
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,supabase,cloudflare" />
-
-<br><br>
-
-### AI / Automation
-
-<img src="https://skillicons.dev/icons?i=pytorch" />
-
-<br>
-
-<img src="https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logoColor=3ff2e9"/>
-<img src="https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logoColor=3ff2e9"/>
-<img src="https://img.shields.io/badge/Playwright-0d0d0d?style=for-the-badge&logo=playwright&logoColor=2EAD33"/>
-<img src="https://img.shields.io/badge/BullMQ-0d0d0d?style=for-the-badge&logoColor=e94560"/>
-<img src="https://img.shields.io/badge/Ollama-0d0d0d?style=for-the-badge&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Groq-0d0d0d?style=for-the-badge&logoColor=ffffff"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,postman,vscode" />
-
-</div>
-
----
-
-## LeetCode
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/)
-[![DSA](https://img.shields.io/badge/Focus-DSA-3ff2e9?style=for-the-badge)](https://leetcode.com/)
-
-</div>
-
-```text
-500+ problems solved
-
-Current focus:
-  Trees       Graphs       Dynamic Programming
-  DSU / MST   Tries        Binary Search
-  BFS / DFS   Bit Tricks   Interview Patterns
-```
-
-I don't really care about the number by itself. The main goal has been getting better at recognizing patterns and being able to derive a solution instead of memorizing one.
-
----
-
-# Projects
+<h2>Projects</h2>
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## Pulsar
+<h3>Pulsar</h3>
 
-### Autonomous Lead Generation Platform
+<b>Autonomous Lead Generation Platform</b>
 
-Pulsar is the main project I'm currently building.
+<p>
+An agent-based lead generation platform combining browser automation, LLM workflows and distributed job processing.
+</p>
 
-It uses LLM agents, browser automation and distributed workers to automate lead generation and outreach workflows.
+<p>
+<b>Stack:</b> Next.js, FastAPI, LangGraph, Playwright, Redis, BullMQ, Supabase, Groq
+</p>
 
-```text
-Frontend
-  Next.js + Supabase
-
-Agent Service
-  FastAPI
-  LangGraph
-  Groq / VLMs
-
-Workers
-  BullMQ
-  Redis
-
-Browser
-  Playwright
-
-Communication
-  SSE
-```
-
-Some of the things I've been working on:
-
-* Hierarchical agent orchestration
-* ICP generation and task delegation
-* Browser-based lead discovery
-* DOM + screenshot based actions
-* VLM-driven browser interaction
-* Async job execution with BullMQ
-* Redis-backed job state
-* Retries and execution recovery
-* Real-time progress through SSE
-* Job queue / ETA estimation
-* Model rate-limit and quota handling
-* Worker health heartbeats
-* Daily usage limits
-
-Current benchmark:
-
-```text
-100 leads
-~20 minutes
-~80% worth reviewing
-```
+<p>
+Currently being developed as my main long-term project.
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## RepoGenie
+<h3>RepoGenie</h3>
 
-### Repository Understanding System
+<b>Repository Understanding System</b>
 
-A tool for analysing large GitHub repositories without requiring the entire repository to be cloned locally.
+<p>
+An AI-powered system for analysing GitHub repositories and extracting useful architectural and code-level information.
+</p>
 
-```text
-FastAPI
-   +
-LangGraph
-   +
-Vector Search
-   +
-Next.js
-```
+<p>
+<b>Stack:</b> FastAPI, LangGraph, Next.js, vector search
+</p>
 
-The goal is to turn an unfamiliar codebase into something that is easier to understand and navigate.
+</td>
 
-The system can work with repository structure and source files to extract useful architectural information and relationships between components.
+</tr>
 
-```text
-GitHub Repository
-       |
-       v
-Repository Structure
-       |
-       v
-Code Analysis
-       |
-       v
-Embeddings / Retrieval
-       |
-       v
-LLM Reasoning
-       |
-       v
-Architectural Insights
-```
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Dinely</h3>
+
+<b>Restaurant Ordering Platform</b>
+
+<p>
+A restaurant management and QR ordering platform with menu onboarding, OCR-based processing and customer ordering workflows.
+</p>
+
+<p>
+<b>Stack:</b> Django REST Framework, React, MUI, PostgreSQL, OCR, Gemini
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Other Work</h3>
+
+<p>
+I've also worked on smaller backend, automation and AI projects involving:
+</p>
+
+<ul>
+<li>Redis caching and async processing</li>
+<li>RabbitMQ / BullMQ workers</li>
+<li>REST APIs</li>
+<li>Authentication systems</li>
+<li>Web automation</li>
+<li>AI-assisted applications</li>
+</ul>
 
 </td>
 
 </tr>
 </table>
 
----
+<hr>
 
-## Pulsar Architecture
+<h2>Experience</h2>
 
-```text
-                         User
-                           |
-                           v
-                  +----------------+
-                  |    Next.js     |
-                  |    Frontend    |
-                  +-------+--------+
-                          |
-                          v
-                  +----------------+
-                  |   Master Agent |
-                  |    LangGraph   |
-                  +-------+--------+
-                          |
-             +------------+------------+
-             |            |            |
-             v            v            v
-        Agent A       Agent B      Agent C
-             |            |            |
-             +------------+------------+
-                          |
-                          v
-                  +----------------+
-                  | Redis / BullMQ |
-                  |                |
-                  | Jobs           |
-                  | Retries        |
-                  | Worker state   |
-                  +-------+--------+
-                          |
-                          v
-                  +----------------+
-                  |   ML Service   |
-                  |    FastAPI     |
-                  +-------+--------+
-                          |
-                          v
-                  +----------------+
-                  |   Playwright   |
-                  |    Browser     |
-                  +-------+--------+
-                          |
-                          v
-                   External Sites
-```
+<p>
 
-One of the problems I'm particularly interested in is making browser agents reliable.
+<b>DeepCytes Cyber Labs UK</b><br>
+Full Stack / Backend Developer Intern<br> <i>Feb 2026 – Present</i>
 
-A model producing the right action once is easy.
+</p>
 
-Getting an agent to deal with:
+<ul>
+<li>Improved API response times by approximately 15% using Redis caching and database optimization.</li>
+<li>Built backend routes and workflows for cybersecurity applications.</li>
+<li>Worked with CVE-related data and security-agent infrastructure.</li>
+</ul>
 
-```text
-wrong element
-     |
-page changed
-     |
-action failed
-     |
-retry
-     |
-model temporarily rate limited
-     |
-resume
-     |
-browser restriction
-     |
-recover
-```
+<p>
 
-is much closer to the actual engineering problem.
+<b>Shresht / Sugamaya Governance</b><br>
+Full Stack Developer Intern<br> <i>Jan 2026 – Apr 2026</i>
 
----
+</p>
 
-# Experience
+<ul>
+<li>Built and deployed 8+ client-facing web platforms.</li>
+<li>Worked on registration systems and analytics dashboards.</li>
+<li>Built backend and asynchronous workflows for web applications.</li>
+</ul>
 
-```text
-2026 — PRESENT
-DeepCytes Cyber Labs UK
-Full Stack / Backend Developer Intern
+<hr>
 
-  • Improved API response times by ~15% using Redis caching
-    and database lookup optimization
+<h2>LeetCode</h2>
 
-  • Built backend routes for cybersecurity workflows
-    involving CVE data and security agents
+<p align="center">
 
-  • Worked on authenticated API workflows and backend
-    infrastructure
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 
+<img src="https://img.shields.io/badge/DSA-Active-0d0d0d?style=for-the-badge&logoColor=3ff2e9" />
 
-JAN 2026 — APR 2026
-Shresht / Sugamaya Governance
-Full Stack Developer Intern
+</p>
 
-  • Built and deployed 8+ client-facing web platforms
+<p align="center">
 
-  • Developed registration systems and analytics dashboards
+<a href="https://leetcode.com/">
+<img src="https://leetcard.jacoblin.cool/?username=notsamaltman&theme=dark&font=Karma&ext=heatmap" width="500"/>
+</a>
 
-  • Worked with Next.js, Supabase and backend integrations
+</p>
 
-  • Worked on asynchronous publishing and interaction
-    workflows for a video platform
-```
+<p align="center">
+Most of my recent practice has been around trees, graphs, dynamic programming, DSU, MST, BFS/DFS, tries and other interview patterns.
+</p>
 
----
+<hr>
 
-# GitHub
+<h2>GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=notsamaltman&show_icons=true&theme=transparent&hide_border=true&title_color=3ff2e9&icon_color=3ff2e9&text_color=a0a0b0&bg_color=0d0d0d&ring_color=3ff2e9&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/notsamaltman">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=notsamaltman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=notsamaltman&theme=transparent&hide_border=true&ring=3ff2e9&fire=e94560&currStreakLabel=3ff2e9&sideLabels=a0a0b0&dates=a0a0b0&currStreakNum=ffffff&sideNums=ffffff&background=0d0d0d&stroke=1a1a2e" height="180"/>
+<a href="https://github.com/notsamaltman">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=notsamaltman&theme=tokyonight&hide_border=true" />
+</a>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<a href="https://github.com/notsamaltman">
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsamaltman&theme=tokyonight&layout=compact&hide_border=true" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=notsamaltman&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=a0a0b0&line=3ff2e9&point=ffffff&area=true" width="100%"/>
+</p>
 
-</div>
+<hr>
 
----
+<h2>Contribution Graph</h2>
 
-# GitHub Trophies
+<p align="center">
 
-<div align="center">
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=notsamaltman&theme=tokyo-night&hide_border=true&area=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=notsamaltman&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=darkhub" width="90%"/>
+</p>
 
-</div>
+<hr>
 
----
+<h2>GitHub Trophies</h2>
 
-# Contribution Graph
+<p align="center">
+
+<img width="900" src="https://github-profile-trophy.vercel.app/?username=notsamaltman&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight" />
+
+</p>
+
+<hr>
+
+<h2>3D Contribution Calendar</h2>
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="900"/>
+
+</p>
+
+<hr>
+
+<h2>Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://github.com/notsamaltman/notsamaltman/blob/output/github-contribution-grid-snake.svg" width="900"/>
+
+</p>
+
+<hr>
+
+<h2>Let's Connect</h2>
+
+<p align="center">
+
+<a href="mailto:panwalkarsoham@gmail.com">
+<img src="https://img.shields.io/badge/Email-panwalkarsoham%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://github.com/notsamaltman">
+<img src="https://img.shields.io/badge/GitHub-notsamaltman-111111?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+<a href="https://www.linkedin.com/in/soham-panwalkar-ab672b351/">
+<img src="https://img.shields.io/badge/LinkedIn-Soham%20Panwalkar-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+</p>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/notsamaltman/notsamaltman/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
----
-
-## Currently Working On
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Pulsar
-
-* More reliable browser agents
-* Better action execution
-* Lower inference costs
-* Queue management
-* Worker health monitoring
-* Better failure recovery
-* Production deployment
-
-</td>
-
-<td width="50%" valign="top">
-
-### Personal
-
-* 500+ → 1000 LeetCode
-* System design
-* Backend architecture
-* Distributed systems
-* Competitive programming
-* Building and shipping more
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/panwalkarsoham%40gmail.com-0d0d0d?style=for-the-badge\&logo=gmail\&logoColor=e94560)](mailto:panwalkarsoham@gmail.com)
-  
-[![GitHub](https://img.shields.io/badge/notsamaltman-0d0d0d?style=for-the-badge\&logo=github\&logoColor=a0a0b0)](https://github.com/notsamaltman)
-  
-[![LinkedIn](https://img.shields.io/badge/sohampanwalkar-0d0d0d?style=for-the-badge\&logo=linkedin\&logoColor=a0a0b0)](https://www.linkedin.com/in/soham-panwalkar-ab672b351/)
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:111827,100:080808&height=120&section=footer&reversal=true" width="100%"/>
 
